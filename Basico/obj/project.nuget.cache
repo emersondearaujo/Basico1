@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUYKdGuGrEel/a383RvOjL90bcAVjR+kShhYtbhy4vIjeOdvgUjkuTOj26LLS/b5DHJJ3pYtrXZSVMDULDQnpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emers\\source\\repos\\Basico\\Basico\\Basico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emers\\.nuget\\packages\\microsoft.netcore.runtime\\1.0.0\\microsoft.netcore.runtime.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

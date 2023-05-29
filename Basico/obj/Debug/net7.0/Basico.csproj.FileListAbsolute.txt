@@ -1,0 +1,15 @@
+C:\Users\emers\source\repos\Basico\Basico\bin\Debug\net7.0\Basico.exe
+C:\Users\emers\source\repos\Basico\Basico\bin\Debug\net7.0\Basico.deps.json
+C:\Users\emers\source\repos\Basico\Basico\bin\Debug\net7.0\Basico.runtimeconfig.json
+C:\Users\emers\source\repos\Basico\Basico\bin\Debug\net7.0\Basico.dll
+C:\Users\emers\source\repos\Basico\Basico\bin\Debug\net7.0\Basico.pdb
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\Basico.csproj.AssemblyReference.cache
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\Basico.AssemblyInfoInputs.cache
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\Basico.AssemblyInfo.cs
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\Basico.csproj.CoreCompileInputs.cache
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\Basico.dll
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\refint\Basico.dll
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\Basico.pdb
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\Basico.genruntimeconfig.cache
+C:\Users\emers\source\repos\Basico\Basico\obj\Debug\net7.0\ref\Basico.dll
